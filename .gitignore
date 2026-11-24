@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+go-movies-crud
+movies
+
+# Data (local only, never committed)
+/movies.json
+
+# Test / build artefacts
+/tmp/
